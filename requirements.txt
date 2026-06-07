@@ -1,0 +1,14 @@
+python-dotenv
+requests
+boto3
+rasterio
+pyproj
+shapely
+numpy
+geopandas
+matplotlib
+Pillow
+folium
+jupyterlab
+contextily
+matplotlib-scalebar
